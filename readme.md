@@ -49,14 +49,7 @@ To run this project you should have a anaconda virtual environment or python wit
         2. pip install -U scikit-learn
         3. pip install Flask
 
-### Installation
-The code is availabal at
 
-
-1. Clone the repo
-   ```sh
-   git clone https://github.com/AzizFiroz/Tourist-spot-recommendation-system.git
-   ```
 ### To run the App
     activate the virtual environment if applicable
     then navigate to the project directory
