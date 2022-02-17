@@ -48,9 +48,9 @@ To run this project you should have a anaconda virtual environment or python wit
     activate the virtual environment if applicable
     then navigate to the project directory
     then in the terminal or command prompt run the command :
-    ```sh
+    ```
     python app.py
    ```
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
