@@ -1,9 +1,7 @@
 <!-- ABOUT THE PROJECT -->
+<h1>Tourist Spot Recommendation System</h1>
 <p align="right" id="top"></p>
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](static/mainpage.png)
-[![Product Name Screen Shot][product-screenshot]](static/output.png)
 
 Recently, recommendation systems are growing rapidly in popularity and are used by many E-Commerce companies for travel and tourism. Studies indicate that the existing tourism recommendation system may not meet the user’s expectations. Tourists can find travelling and tourism information through various sources like blogs, forums, websites, and our friends and relatives help them to know about various tourist destinations. Such overflow of information lacks the focus on a person's interest.
 For the recommendation system to succeed, it must be able to provide tourism information based on the user’s preferences. We propose a recommendation system for domestic tourists in India to provide personalized tourist information to its users. The primary aim of this project work is to design an efficient and accurate system to provide recommendations about the tourist spots after analysing different tourist spots in the dataset, to the user in an application based on different constraints given by the user.
@@ -15,10 +13,6 @@ Project Objective
 * To design and implement a user interface.
 * To recommend appropriate tourist spots to the user based on the inputs provided by the user.
 
-
-
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
